@@ -3,6 +3,15 @@
   "_type": "page.form",
   "components": [
     {
+      "_id": "page.issue-details--text.auto_name__5",
+      "_type": "text",
+      "label": "Case number",
+      "name": "auto_name__5",
+      "validation": {
+        "required": false
+      }
+    },
+    {
       "$component": true,
       "$control": true,
       "$definition": true,
