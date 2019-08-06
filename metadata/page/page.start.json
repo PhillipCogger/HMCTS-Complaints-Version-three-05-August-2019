@@ -16,6 +16,8 @@
   "lede": "Use this form to complaint to HMCTS about a court or tribunal.",
   "steps": [
     "page.complaint-reason",
+    "page.case-complaint",
+    "page.judiciary-complaint",
     "page.complaint-submitted"
   ],
   "url": "/"
