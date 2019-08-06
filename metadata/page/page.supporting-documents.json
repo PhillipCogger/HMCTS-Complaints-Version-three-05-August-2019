@@ -1,0 +1,16 @@
+{
+  "_id": "page.supporting-documents",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.supporting-documents--fileupload.auto_name__6",
+      "_type": "fileupload",
+      "hint": "You can upload your documents as scanned copies or photos of the originals.",
+      "label": "Upload any documents you have to support your complaint",
+      "maxFiles": 10,
+      "minFiles": 0,
+      "name": "auto_name__6"
+    }
+  ],
+  "url": "supporting-documents"
+}
