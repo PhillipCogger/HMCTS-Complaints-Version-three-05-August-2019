@@ -1,8 +1,9 @@
 {
   "_id": "service",
+  "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
-  "name": "Service name goes here",
-  "phase": "alpha",
-  "phaseText": "Service phase text goes here",
-  "_isa": "@ministryofjustice/fb-components-core=>service"
+  "name": "Complain to HMCTS about a court or tribunal",
+  "pdfHeading": "Complain to HMCTS about a court or tribunal",
+  "phase": "none",
+  "phaseText": "Service phase text goes here"
 }
