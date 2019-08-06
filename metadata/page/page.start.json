@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "## When not to use this form\r\n\r\nYou can't use this form to complain about:\r\n\r\n* [the outcome of a case](https://www.judiciary.uk/you-and-the-judiciary/appeals-process/)\r\n* [a judge, tribunal member or magistrate](https://judicialconduct.judiciary.gov.uk/)\r\n\r\n### Before you start\r\n\r\nIf you have documents to support your complaint, you'll need to take photos of these or scan the originals.",
+  "body": "Your complaint will not affect the outcome of your case.\r\n\r\n## When not to use this form\r\n\r\nYou can't use this form to complain about:\r\n\r\n* [the outcome of a case](https://www.judiciary.uk/you-and-the-judiciary/appeals-process/)\r\n* [a judge, tribunal member or magistrate](https://judicialconduct.judiciary.gov.uk/)\r\n\r\n### Before you start\r\n\r\nIf you have documents to support your complaint, you'll need to take photos of these or scan the originals.",
   "extraComponents": [
     {
       "$component": true,
@@ -13,7 +13,7 @@
     }
   ],
   "heading": "Complain to HMCTS about a court or tribunal",
-  "lede": "Use this form to make a complaint to HMCTS about a court or tribunal.",
+  "lede": "Use this form to complaint to HMCTS about a court or tribunal.",
   "steps": [
     "page.complaint-reason",
     "page.complaint-submitted"
