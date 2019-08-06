@@ -2,5 +2,10 @@
   "_id": "page.case-complaint",
   "_type": "page.exit",
   "heading": "Challenge the outcome of a case",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
   "url": "challenge-a-case"
 }

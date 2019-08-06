@@ -2,5 +2,10 @@
   "_id": "page.judiciary-complaint",
   "_type": "page.exit",
   "heading": "Complain about a judge, tribunal member or magistrate",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__3"
+  },
   "url": "judiciary-complaint"
 }
