@@ -9,16 +9,19 @@
         {
           "_id": "page.complaint-reason--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
+          "label": "My experience with HMCTS",
           "value": "auto_value__1"
         },
         {
           "_id": "page.complaint-reason--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
+          "label": "The outcome of a case",
           "value": "auto_value__2"
         },
         {
           "_id": "page.complaint-reason--radios.auto_name__1--radio.auto_value__3",
           "_type": "radio",
+          "label": "A judge, tribunal member or magistrate",
           "value": "auto_value__3"
         }
       ],

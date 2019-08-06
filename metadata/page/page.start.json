@@ -15,8 +15,8 @@
   "heading": "Complain to HMCTS about a court or tribunal",
   "lede": "Use this form to make a complaint to HMCTS about a court or tribunal.",
   "steps": [
-    "page.complaint-submitted",
-    "page.complaint-reason"
+    "page.complaint-reason",
+    "page.complaint-submitted"
   ],
   "url": "/"
 }
