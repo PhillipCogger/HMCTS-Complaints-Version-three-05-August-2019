@@ -18,6 +18,7 @@
     "page.complaint-reason",
     "page.case-complaint",
     "page.judiciary-complaint",
+    "page.select-court-or-tribunal",
     "page.issue-details",
     "page.complaint-submitted"
   ],
