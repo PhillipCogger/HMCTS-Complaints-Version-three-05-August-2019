@@ -15,10 +15,10 @@
   "heading": "Complain to HMCTS about a court or tribunal",
   "lede": "Use this form to complaint to HMCTS about a court or tribunal.",
   "steps": [
+    "page.select-court-or-tribunal",
     "page.complaint-reason",
     "page.case-complaint",
     "page.judiciary-complaint",
-    "page.select-court-or-tribunal",
     "page.issue-details",
     "page.complaint-submitted"
   ],

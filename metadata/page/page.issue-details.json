@@ -9,7 +9,7 @@
       "$field": true,
       "_id": "page.issue-details--textarea.auto_name__2",
       "_type": "textarea",
-      "label": "Type of problem",
+      "label": "What happened",
       "name": "auto_name__2"
     },
     {
@@ -19,11 +19,11 @@
       "$field": true,
       "_id": "page.issue-details--textarea.auto_name__4",
       "_type": "textarea",
-      "label": "How we can resolve it",
+      "label": "What would you like [insert court or tribunal] to do to resolve your issue?",
       "name": "auto_name__4"
     }
   ],
-  "heading": "Tell us what happened",
+  "heading": "Complaint details",
   "lede": "Give as much detail as you can, including dates if you know them.",
   "url": "issue-details"
 }
