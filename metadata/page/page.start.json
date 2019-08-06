@@ -2,6 +2,13 @@
   "_id": "page.start",
   "_type": "page.start",
   "body": "## When not to use this form\r\n\r\nYou can't use this form to complain about:\r\n\r\n* the outcome of a case\r\n* a judge, tribunal member or magistrate\r\n\r\n### Before you start\r\n\r\nIf you have documents to support your complaint, you'll need to take photos of these or scan the originals.",
+  "extraComponents": [
+    {
+      "_id": "page.start--content",
+      "_type": "content",
+      "html": "Find out [how HM Courts and Tribunals Service uses personal information](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/personal-information-charter)."
+    }
+  ],
   "heading": "Complain to HMCTS about a court or tribunal",
   "lede": "Use this form to make a complaint to HMCTS about a court or tribunal.",
   "steps": [],
