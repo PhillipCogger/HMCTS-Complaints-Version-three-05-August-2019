@@ -30,6 +30,11 @@
       "_type": "textarea",
       "label": "What would you like [insert court or tribunal] to do to resolve your issue?",
       "name": "auto_name__4"
+    },
+    {
+      "_id": "page.issue-details--fileupload.auto_name__6",
+      "_type": "fileupload",
+      "name": "auto_name__6"
     }
   ],
   "heading": "Complaint details",
