@@ -29,12 +29,5 @@
       "name": "auto_name__1"
     }
   ],
-  "extraComponents": [
-    {
-      "_id": "page.complaint-reason--content",
-      "_type": "content",
-      "html": "test content"
-    }
-  ],
   "url": "complaint-reason"
 }

@@ -1,0 +1,27 @@
+{
+  "_id": "page.any-supporting-documents",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.any-supporting-documents--radios.auto_name__7",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.any-supporting-documents--radios.auto_name__7--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.any-supporting-documents--radios.auto_name__7--radio.auto_value__4",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "Do you have any documents or photos to support your complaint?",
+      "name": "auto_name__7"
+    }
+  ],
+  "url": "any-supporting-documents"
+}
