@@ -1,0 +1,13 @@
+{
+  "_id": "page.complaint-reason",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.complaint-reason--radios.auto_name__1",
+      "_type": "radios",
+      "legend": "What do you want to make a complaint about?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "complaint-reason"
+}
