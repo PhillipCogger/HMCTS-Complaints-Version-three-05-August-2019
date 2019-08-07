@@ -1,0 +1,51 @@
+{
+  "_id": "page.relationship-to-customer",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.relationship-to-customer--radios.auto_name__9",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__9--radio.auto_value__7",
+          "_type": "radio",
+          "label": "Family",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__9--radio.auto_value__8",
+          "_type": "radio",
+          "label": "Litigation friend",
+          "value": "auto_value__8"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__9--radio.auto_value__9",
+          "_type": "radio",
+          "label": "Councillor",
+          "value": "auto_value__9"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__9--radio.auto_value__10",
+          "_type": "radio",
+          "label": "Advocacy service",
+          "value": "auto_value__10"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__9--radio.auto_value__11",
+          "_type": "radio",
+          "label": "MP",
+          "value": "auto_value__11"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__9--radio.auto_value__12",
+          "_type": "radio",
+          "label": "Solicitor or lawyer",
+          "value": "auto_value__12"
+        }
+      ],
+      "legend": "What's your relationship to the customer?",
+      "name": "auto_name__9"
+    }
+  ],
+  "url": "relationship-to-customer"
+}
