@@ -32,7 +32,7 @@
       "$field": true,
       "_id": "page.issue-details--textarea.auto_name__4",
       "_type": "textarea",
-      "label": "What would you like [insert court or tribunal] to do to resolve your issue?",
+      "label": "What would you like us to do to resolve your issue?",
       "name": "auto_name__4"
     }
   ],
