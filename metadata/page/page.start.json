@@ -28,6 +28,9 @@
     "page.contact-preferences",
     "page.your-address",
     "page.customer-address",
+    "page.your-email",
+    "page.phone-number",
+    "page.check-answers",
     "page.complaint-submitted"
   ],
   "url": "/"

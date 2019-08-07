@@ -44,5 +44,11 @@
     }
   ],
   "heading": "Customer address",
+  "lede": "We'll only use this to contact you about your complaint.",
+  "show": {
+    "identifier": "auto_name__8",
+    "operator": "is",
+    "value": "auto_value__6"
+  },
   "url": "customer-address"
 }
