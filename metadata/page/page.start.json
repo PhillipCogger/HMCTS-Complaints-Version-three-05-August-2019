@@ -22,6 +22,7 @@
     "page.issue-details",
     "page.any-supporting-documents",
     "page.supporting-documents",
+    "page.person-making-complaint",
     "page.complaint-submitted"
   ],
   "url": "/"
