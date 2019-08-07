@@ -19,16 +19,15 @@
     "page.complaint-reason",
     "page.case-complaint",
     "page.judiciary-complaint",
-    "page.your-name",
     "page.issue-details",
     "page.any-supporting-documents",
     "page.supporting-documents",
     "page.person-making-complaint",
     "page.relationship-to-customer",
+    "page.your-name--2",
     "page.contact-preferences",
     "page.your-address",
-    "page.complaint-submitted",
-    "page.your-name--2"
+    "page.complaint-submitted"
   ],
   "url": "/"
 }
