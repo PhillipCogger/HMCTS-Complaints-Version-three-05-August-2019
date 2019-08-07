@@ -1,0 +1,41 @@
+{
+  "_id": "page.contact-preferences",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contact-preferences--radios.auto_name__10",
+      "_type": "radios",
+      "hint": "We'll only contact you about your complaint",
+      "items": [
+        {
+          "_id": "page.contact-preferences--radios.auto_name__10--radio.auto_value__13",
+          "_type": "radio",
+          "label": "Email",
+          "value": "auto_value__13"
+        },
+        {
+          "_id": "page.contact-preferences--radios.auto_name__10--radio.auto_value__14",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.contact-preferences--radios.auto_name__10--radio.auto_value__14--text.auto_name__11",
+            "_type": "text",
+            "hint": "For example, between 4 and 6pm, or give an exact time, like 6.30pm",
+            "label": "What's the best time to call?",
+            "name": "auto_name__11"
+          },
+          "label": "Phone",
+          "value": "auto_value__14"
+        },
+        {
+          "_id": "page.contact-preferences--radios.auto_name__10--radio.auto_value__15",
+          "_type": "radio",
+          "label": "By post",
+          "value": "auto_value__15"
+        }
+      ],
+      "legend": "How would you prefer to be contacted?",
+      "name": "auto_name__10"
+    }
+  ],
+  "url": "contact-preferences"
+}
