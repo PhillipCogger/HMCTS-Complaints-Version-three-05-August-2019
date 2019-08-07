@@ -5,7 +5,6 @@
     {
       "_id": "page.contact-preferences--radios.auto_name__10",
       "_type": "radios",
-      "hint": "We'll only contact you about your complaint",
       "items": [
         {
           "_id": "page.contact-preferences--radios.auto_name__10--radio.auto_value__13",
@@ -33,7 +32,7 @@
           "value": "auto_value__15"
         }
       ],
-      "legend": "How would you prefer to be contacted?",
+      "legend": "How would you prefer to be contacted about your complaint?",
       "name": "auto_name__10"
     }
   ],

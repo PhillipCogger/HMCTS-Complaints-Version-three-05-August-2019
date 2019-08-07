@@ -1,0 +1,48 @@
+{
+  "_id": "page.customer-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.customer-address--text.auto_name__19",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__19",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__20",
+      "_type": "text",
+      "name": "auto_name__20",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__21",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__21",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__22",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__22",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__23",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__23",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "Customer address",
+  "url": "customer-address"
+}
