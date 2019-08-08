@@ -13,9 +13,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__7",
+    "identifier": "documents_for_complaint",
     "operator": "is",
-    "value": "auto_value__2"
+    "value": "documents_for_complaint_yes"
   },
   "url": "supporting-documents"
 }

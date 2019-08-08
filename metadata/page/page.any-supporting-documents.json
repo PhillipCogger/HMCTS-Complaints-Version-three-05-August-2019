@@ -10,17 +10,17 @@
           "_id": "page.any-supporting-documents--radios.auto_name__7--radio.auto_value__2",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__2"
+          "value": "documents_for_complaint_yes"
         },
         {
           "_id": "page.any-supporting-documents--radios.auto_name__7--radio.auto_value__4",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__4"
+          "value": "documents_for_complaint_no"
         }
       ],
       "legend": "Do you have any documents or photos to support your complaint?",
-      "name": "auto_name__7"
+      "name": "documents_for_complaint"
     }
   ],
   "url": "any-supporting-documents"

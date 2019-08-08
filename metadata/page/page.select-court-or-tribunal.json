@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "Start by typing a location, for example, Aberystwyth, or the specific court or tribunal if you know it.",
       "label": "Where did the issue happen?",
-      "name": "auto_name__3"
+      "name": "complaint_issue_location"
     }
   ],
   "url": "select-court-or-tribunal"

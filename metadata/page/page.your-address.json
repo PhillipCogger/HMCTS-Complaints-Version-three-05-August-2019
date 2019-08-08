@@ -66,9 +66,9 @@
   ],
   "heading": "Your address",
   "show": {
-    "identifier": "auto_name__8",
+    "identifier": "person_making_complaint",
     "operator": "is",
-    "value": "auto_value__5"
+    "value": "customer_making_complaint"
   },
   "url": "your-details"
 }

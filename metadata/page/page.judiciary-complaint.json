@@ -4,9 +4,9 @@
   "body": "The JCIO do not accept complaints about:\r\n\r\n* a judge’s decision\r\n* the way a judge has managed a case\r\n\r\nIf you want to complain about a judge, tribunal member or magistrate, you can [make a complaint to the Judicial Conduct Investigation Office (JCIO)](https://judicialconduct.judiciary.gov.uk/).",
   "heading": "Complain about a judge, tribunal member or magistrate",
   "show": {
-    "identifier": "auto_name__1",
+    "identifier": "complaint_reason",
     "operator": "is",
-    "value": "auto_value__3"
+    "value": "complaint_reason_judiciary"
   },
   "url": "judiciary-complaint"
 }
