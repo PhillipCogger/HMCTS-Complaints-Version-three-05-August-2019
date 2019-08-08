@@ -1,6 +1,7 @@
 {
   "_id": "page.customer-address",
   "_type": "page.form",
+  "body": "We'll only use this to contact you about the complaint",
   "components": [
     {
       "_id": "page.customer-address--text.auto_name__26",
@@ -76,7 +77,6 @@
     }
   ],
   "heading": "Customer name and address",
-  "lede": "We'll only use this to contact you about your complaint.",
   "show": {
     "identifier": "auto_name__8",
     "operator": "is",
