@@ -76,7 +76,7 @@
       "widthClassInput": "10"
     }
   ],
-  "heading": "Customer name and address",
+  "heading": "What's the customer's name and address?",
   "show": {
     "identifier": "auto_name__8",
     "operator": "is",
